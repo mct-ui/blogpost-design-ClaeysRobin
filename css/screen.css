@@ -70,7 +70,8 @@ img {
 h1,
 h2,
 h3 {
-    color: #17181A;
+    /* color: #17181A; */
+    font-family: "Inter Web", "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
 
 h2 {
